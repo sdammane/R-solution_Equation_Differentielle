@@ -1,0 +1,4 @@
+dt: 0.1 	 y(Euler)=9.04267 	 y(RK2)= 9.0505 	 y(exacte)=  9.04988
+dt: 0.001 	 y(Euler)=9.0498 	 y(RK2)= 9.04988 	 y(exacte)=  9.04988
+dt: 0.02 	 y(Euler)=9.04842 	 y(RK2)= 9.0499 	 y(exacte)=  9.04988
+dt: 0.04 	 y(Euler)=9.04697 	 y(RK2)= 9.04998 	 y(exacte)=  9.04988

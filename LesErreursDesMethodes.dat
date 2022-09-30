@@ -1,0 +1,4 @@
+dt: 0.1 	 error(Euler)=0.0072034 	 error(RK2)= 0.000627043
+dt: 0.001 	 error(Euler)=7.31806e-005 	 error(RK2)= 6.20718e-008
+dt: 0.02 	 error(Euler)=0.00145947 	 error(RK2)= 2.48681e-005
+dt: 0.04 	 error(Euler)=0.00290997 	 error(RK2)= 9.96575e-005
